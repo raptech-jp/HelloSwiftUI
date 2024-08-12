@@ -36,6 +36,7 @@
 		85475C122C690337005DF95F = {
 			isa = PBXGroup;
 			children = (
+				85475C2C2C6906A7005DF95F /* README.md */,
 				85475C1D2C690337005DF95F /* HelloSwiftUI */,
 				85475C1C2C690337005DF95F /* Products */,
 			);
@@ -54,7 +55,6 @@
 			children = (
 				85475C1E2C690337005DF95F /* HelloSwiftUIApp.swift */,
 				85475C202C690337005DF95F /* ContentView.swift */,
-				85475C2C2C6906A7005DF95F /* README.md */,
 				85475C222C690338005DF95F /* Assets.xcassets */,
 				85475C242C690338005DF95F /* Preview Content */,
 			);
